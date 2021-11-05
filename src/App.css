@@ -7,8 +7,14 @@ body {
   );
 }
 
+.App {
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
 h1 {
-  font-family: "Eczar", serif;
+  font-family: "Modak", cursive;
   text-decoration: wavy;
   color: #fff;
+  font-size: 50px;
 }
