@@ -3,8 +3,9 @@
   margin-top: 50px;
   text-align: center;
 }
-.Container {
+.Border {
   margin: 0 auto;
+  margin-top: 5px;
   border-radius: 6px;
   border: 1px solid #fff;
   background-color: rgb(255, 253, 252, 0.25);
