@@ -72,3 +72,7 @@ button:hover {
   text-decoration: none;
   color: white;
 }
+
+ul {
+  list-style: none;
+}
