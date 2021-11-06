@@ -20,14 +20,16 @@ h1 {
   text-shadow: 1px 1px 3px #000;
 }
 h2 {
-  font-size: 35px;
-  font-weight: bold;
-  text-shadow: 1px 1px 1px #000;
+  font-size: 30px;
+  text-shadow: 1px 1px 6px rgb(177, 174, 174);
 }
 
 h3 {
-  font-size: 25px;
-  text-shadow: 1px 1px 1px #000;
+  font-size: 18px;
+  text-shadow: 1px 1px 6px rgb(177, 174, 174);
+}
+p {
+  text-shadow: 1px 1px 6px rgb(177, 174, 174);
 }
 
 button {
@@ -35,6 +37,7 @@ button {
   border: 1px solid #fff;
   border-radius: 6px;
   color: #fff;
+  text-shadow: 1px 1px 6px rgb(177, 174, 174);
 }
 
 form {
