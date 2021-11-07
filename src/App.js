@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Dictionary</h1>
-      <Dictionary defaultKeyword="howdy" />
+      <Dictionary defaultKeyword="hello" />
 
       <footer>
         This is an{" "}

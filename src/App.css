@@ -6,6 +6,7 @@
 .Border {
   margin: 0 auto;
   margin-top: 5px;
+  padding: 10px;
   border-radius: 6px;
   border: 1px solid #fff;
   background-color: rgb(255, 253, 252, 0.25);
@@ -31,6 +32,7 @@ h3 {
 }
 p {
   text-shadow: 1px 1px 6px rgb(177, 174, 174);
+  padding: 10px;
 }
 
 button {
@@ -79,4 +81,12 @@ li {
   list-style: none;
   display: inline-block;
   padding-right: 15px;
+}
+
+img {
+  border-radius: 5px;
+  border: 1px solid #fff;
+  box-shadow: 1px 1px 6px rgb(177, 174, 174);
+  margin: 0 auto;
+  margin-bottom: 10px;
 }
